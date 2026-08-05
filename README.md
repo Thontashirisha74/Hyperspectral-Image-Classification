@@ -126,8 +126,6 @@ Hyperspectral-Classification
 - Real-time hyperspectral segmentation
 ---
 
-##  Author
-**Saichandana** 
 
 ##  Acknowledgements
 Indian Pines dataset originally captured by **AVIRIS sensor**  
